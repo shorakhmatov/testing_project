@@ -1,0 +1,5 @@
+<map id="FL::Init" name="FL::Init">
+<area shape="rect" id="Node000001" title="Сумма прибыли за флильм" alt="" coords="5,5,67,32"/>
+<area shape="rect" id="Node000002" href="$classfilm.html#afc5ccfbec9161ebc81830f66ae8a5475" title="Метод инициализации значений для стоимости и зарат" alt="" coords="115,5,181,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,16,99,16,99,21,67,21"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="film" name="film">
+<area shape="rect" id="Node000001" title="Основной класс" alt="" coords="5,5,47,32"/>
+<area shape="rect" id="Node000002" href="$class_f_l.html" title="Вспомогательный класс" alt="" coords="7,80,45,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="29,48,29,80,23,80,23,48"/>
+</map>

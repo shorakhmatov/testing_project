@@ -1,0 +1,16 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,83,55,110"/>
+<area shape="rect" id="Node000002" href="$classfilm.html#afc5ccfbec9161ebc81830f66ae8a5475" title="Метод инициализации значений для стоимости и зарат" alt="" coords="252,7,318,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="37,81,62,47,80,31,102,18,136,8,171,4,236,8,236,13,171,9,137,13,104,23,84,35,66,51,41,84"/>
+<area shape="rect" id="Node000003" href="$class_f_l.html#ae0ab21e06f3c35b9ce09558023909eac" title="Сумма прибыли за флильм" alt="" coords="115,32,176,59"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="54,83,99,63,102,68,56,88"/>
+<area shape="rect" id="Node000004" href="$classfilm.html#a15d8bf7135a319f582ff5a73618d7023" title="метод для получения данных о прибыли и затратах из консоли" alt="" coords="106,83,185,110"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="55,94,90,94,90,99,55,99"/>
+<area shape="rect" id="Node000005" href="$class_f_l.html#a36f1c93dbe4aada73967b3e0c839417c" title="Функция считает сумму" alt="" coords="105,134,186,160"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="56,105,100,124,98,129,54,109"/>
+<area shape="rect" id="Node000006" href="$classfilm.html#afa954940432dea614e6898d3d2fe1d45" title="Сумма прибыли за флильм" alt="" coords="103,184,188,211"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="44,108,71,138,104,170,108,173,105,177,101,174,67,142,40,112"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="176,37,235,26,236,32,177,43"/>
+<area shape="rect" id="Node000007" href="$classfilm.html#aae489caee0a4de4cdf101026de41e5a0" title=" " alt="" coords="236,184,333,211"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="188,195,220,195,220,200,188,200"/>
+</map>
